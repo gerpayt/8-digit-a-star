@@ -1,0 +1,30 @@
+
+#disp-route .leftb {
+	margin:16px;
+	width: 150px;
+	float: left;
+}
+#disp-route .leftb .bnum {
+	display:inline-block;
+	border:solid white 2px;
+	text-align: center;
+	height:45px;
+	width:45px;
+	font-size:45px;
+}
+
+#float-blocks  .float-block {
+	border:solid white 2px;
+	margin:5px;
+	height:180px;
+	width:180px;
+	display:inline-block;
+	position:absolute;
+	font-size:160px;
+	line-height:160px;
+}
+
+#disp-route {
+	height: 600px;
+	overflow-y: scroll;
+}
